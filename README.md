@@ -1,2 +1,2 @@
 # Threads
-The purpose of this assignment is to get hands on threads and understand how it works. 
+The purpose of this assignment is to get hands on threads and understand how it works. The idea of this assignment is to learn how to use the POSIX threads. The program have a function called progress monitor that is in charge of tracking the progress upon the thread when it is executing. This function is invoked once by the thread and it is looped until the progress bar is completed and ends.
